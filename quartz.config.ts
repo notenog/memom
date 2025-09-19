@@ -1,9 +1,8 @@
 import * as Plugin from "./quartz/plugins"
 
-5043f44 (Deploy Quartz site)
 const config: QuartzConfig = {
   build: {
-    outputDirectory: "public",
+    outputDirectory: "docs",
   },
   configuration: {
     pageTitle: "Quartz 4",
