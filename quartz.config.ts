@@ -1,3 +1,4 @@
+import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   build: {
     outputDirectory: "docs",
