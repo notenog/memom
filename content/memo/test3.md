@@ -5,4 +5,4 @@ permalink: /test/
 tags:
   - gardenEntry
 ---
-これはテストノートですよ
+これはテストノートですよ～
