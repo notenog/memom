@@ -6,29 +6,29 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>テストノート</title>
-    <link>https://quartz.jzhao.xyz/memo/test3</link>
-    <guid>https://quartz.jzhao.xyz/memo/test3</guid>
-    <description><![CDATA[ これはテストノートですよ～. ]]></description>
-    <pubDate>Sat, 20 Sep 2025 10:49:22 GMT</pubDate>
-  </item><item>
-    <title>テストノート2</title>
-    <link>https://quartz.jzhao.xyz/memo/test2</link>
-    <guid>https://quartz.jzhao.xyz/memo/test2</guid>
-    <description><![CDATA[ 222. ]]></description>
-    <pubDate>Fri, 19 Sep 2025 18:28:59 GMT</pubDate>
-  </item><item>
     <title>ようこそ</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ birdさんのデジタルガーデンへようこそ 🌸 このサイトでは、私のノートや思考の記録を公開しています。. ]]></description>
-    <pubDate>Fri, 19 Sep 2025 10:41:03 GMT</pubDate>
+    <pubDate>Sat, 20 Sep 2025 11:10:45 GMT</pubDate>
   </item><item>
     <title>テストノート</title>
     <link>https://quartz.jzhao.xyz/memo/test</link>
     <guid>https://quartz.jzhao.xyz/memo/test</guid>
     <description><![CDATA[ これはテストノートです。. ]]></description>
-    <pubDate>Fri, 19 Sep 2025 10:41:03 GMT</pubDate>
+    <pubDate>Sat, 20 Sep 2025 11:10:45 GMT</pubDate>
+  </item><item>
+    <title>テストノート2</title>
+    <link>https://quartz.jzhao.xyz/memo/test2</link>
+    <guid>https://quartz.jzhao.xyz/memo/test2</guid>
+    <description><![CDATA[ 222. ]]></description>
+    <pubDate>Sat, 20 Sep 2025 11:10:45 GMT</pubDate>
+  </item><item>
+    <title>テストノート</title>
+    <link>https://quartz.jzhao.xyz/memo/test3</link>
+    <guid>https://quartz.jzhao.xyz/memo/test3</guid>
+    <description><![CDATA[ これはテストノートですよ～～～. ]]></description>
+    <pubDate>Sat, 20 Sep 2025 11:10:45 GMT</pubDate>
   </item>
     </channel>
   </rss>
